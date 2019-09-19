@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileAThonDemo", "AgileATho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileAThonDemo.Tests", "AgileAThonDemo.Tests\AgileAThonDemo.Tests.csproj", "{87B9976E-7963-44BC-A4BE-E80582FC6ADF}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AgileAThonInstaller", "AgileAThonInstaller\AgileAThonInstaller.vdproj", "{BB4047A8-3BD6-4BA9-BD2A-190EC3349858}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4047A8-3BD6-4BA9-BD2A-190EC3349858}.Debug|Any CPU.ActiveCfg = Debug
+		{BB4047A8-3BD6-4BA9-BD2A-190EC3349858}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
