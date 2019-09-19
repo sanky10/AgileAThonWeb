@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileAThonDemo", "AgileAThonDemo\AgileAThonDemo.csproj", "{1C51E2C2-C2E4-4243-867F-308A396BF609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileAThonDemo.Tests", "AgileAThonDemo.Tests\AgileAThonDemo.Tests.csproj", "{87B9976E-7963-44BC-A4BE-E80582FC6ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C51E2C2-C2E4-4243-867F-308A396BF609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C51E2C2-C2E4-4243-867F-308A396BF609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C51E2C2-C2E4-4243-867F-308A396BF609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C51E2C2-C2E4-4243-867F-308A396BF609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B9976E-7963-44BC-A4BE-E80582FC6ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF051C3-66A4-4E3E-8ABB-7040BD6DB670}
+	EndGlobalSection
+EndGlobal
